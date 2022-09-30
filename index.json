@@ -1,14 +1,16 @@
 [
     {
         "id": 1,
-        "movie_name": "Harry Potter",
+        "movie_name": "arman Potter",
         "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
         
         
     },
     {
-        "id":2,
+        "id":"2",
+        "movie_name":"Monstar thunte",
         "movie_name":"Monstar thunder ",
+
         "plot":"Behind our world, there is another: a world of dangerous and powerful monsters that rule their domain with deadly ferocity. "
     },
     {
